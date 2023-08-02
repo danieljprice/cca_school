@@ -7,6 +7,16 @@ Notes and links for SPH session @ Flatiron CCA summer school July 31st-Aug 11th 
 - phantom repo: https://github.com/danieljprice/phantom
 - splash userguide: https://splash-viz.readthedocs.org/
 
+## Fluids/MHD lecture notes
+- Dan's [fluids notes](https://github.com/danieljprice/cca_school/blob/main/dan-fluids-notes.pdf) (pdf)
+- Online [videos of fluids lectures](https://www.youtube.com/watch?v=MOjPtBFGtSI&list=PLMzuj51UjsPTZjHd6XKB4PYbqYDsEBKwH&index=5) (like and subscribe!): 
+
 ## SPH lectures
-- Dan's fluids notes (pdf)
 - SPH lecture notes: http://adsabs.harvard.edu/abs/2012JCoPh.231..759P
+- Joe Monaghan giving an intro to SPH at one of the phantom users workshops ([part I](https://youtu.be/tAXHCAEgSuE), [part II ](https://youtu.be/OTlygbegQT4)) 
+
+## Other useful places
+- Daniel's home page: https://users.monash.edu.au/~dprice/
+- Daniel's [Introduction to Fortran video tutorials](https://www.youtube.com/playlist?list=PLMzuj51UjsPTZjHd6XKB4PYbqYDsEBKwH)
+- Daniel's [Introduction to Fortran tutorial notes](https://users.monash.edu.au/~dprice/teaching/fortran/lab-Fortran.pdf)
+
